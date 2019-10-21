@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e59bbb16-7bdb-489e-8bb4-08e0336053cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BattleShip/.idea/BattleShip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BattleShip/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BattleShip/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BattleShip/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BattleShip/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BattleShip/shopping_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/.idea/Challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/getsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/horizontal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/listsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/perimeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/print function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/recursive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/set .add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/sumadedigitos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask/WhatsappBot/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Olimpiadas 2/.idea/Olimpiadas 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Olimpiadas 2/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Olimpiadas 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Olimpiadas 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Olimpiadas 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Olimpiadas 2/21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Olimpiadas 2/22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Olimpiadas 2/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Olimpiadas 2/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Olimpiadas 2/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Olimpiadas 2/31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Olimpiadas 2/32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Olimpiadas 2/33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask/WhatsappBot/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/.idea/WhatsappBot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask/WhatsappBot/.idea/WhatsappBot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask/WhatsappBot/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask/WhatsappBot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/src/app/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/src/app/static/css/bootstrap-responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/src/app/static/css/bootstrap-responsive.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/src/app/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/src/app/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/src/app/static/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/src/app/static/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/src/app/static/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/src/app/static/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/src/app/templates/_layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/src/app/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask/WhatsappBot/src/app/templates/home.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/quiz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/quiz.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/SafetyQuiz.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SafetyQuiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SafetyQuiz" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e59bbb16-7bdb-489e-8bb4-08e0336053cf" name="Default Changelist" comment="" />
+      <created>1571666950407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571666950407</updated>
+      <workItem from="1571666952718" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="129000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Pylint" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32913166" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
